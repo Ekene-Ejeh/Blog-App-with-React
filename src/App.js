@@ -1,11 +1,10 @@
 import React from "react";
-import TopBar from "./topbar/Topbar";
+import TopBar from "./topbar/TopBar";
 
 export default function App() {
 	return (
-		<div>
-			React Blog App
+		<>
 			<TopBar />
-		</div>
+		</>
 	);
 }
