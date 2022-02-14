@@ -12,11 +12,11 @@ export default function TopBar() {
 			</div>
 			<div className="topCenter">
 				<ul className="topList">
-					<li className="topListItems">Home</li>
-					<li className="topListItems">About</li>
-					<li className="topListItems">Contact</li>
-					<li className="topListItems">Write</li>
-					<li className="topListItems">Logout</li>
+					<li className="topListItems">HOME</li>
+					<li className="topListItems">ABOUT</li>
+					<li className="topListItems">CONTACT</li>
+					<li className="topListItems">WRITE</li>
+					<li className="topListItems">LOGOUT</li>
 				</ul>
 			</div>
 			<div className="topRight">
